@@ -112,9 +112,3 @@ nav:
       - Operators: deploy/operators.md
       - Services: deploy/services.md
       - Monitor / Credentials: deploy/monitor.md
-    
-  #- Site Info: site_info/site_info.md
-  #- Reference:
-  #  - Overview: introduction/overview/index.md
-  #  - Reference architecture: introduction/reference-architecture/index.md
-  # X: index_original.md
