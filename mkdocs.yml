@@ -1,0 +1,112 @@
+site_name: SKO Tech Academy - Business Automation
+#site_url: https://thomasyang44.github.io/sko-tech-academy
+site_author: Gerry Baird, Thomas Yang
+
+# Repository
+repo_name: sko-tech-academy
+repo_url: https://github.com/thomasyang44/sko-tech-academy
+docs_dir: docs
+site_dir: public
+edit_uri: edit/master/docs
+theme:
+  name: material
+  feature:
+    tabs: true
+  palette:
+    scheme: default
+    primary: black
+  language: en
+  custom_dir: overrides
+  features:
+      - navigation.tabs
+      - navigation.instant
+      - navigation.tracking
+      - navigation.tabs.sticky
+      - navigation.top
+      - navigation.sections
+      - content.code.annotate
+extra_css: ["extra.css"]
+use_directory_urls: true
+plugins:
+  - search:
+      lang: en
+#  - minify:
+#      minify_html: true
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.tabbed
+  - pymdownx.highlight
+  - pymdownx.details
+  - md_in_html
+  - extra
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      base_path: docs/snippets
+copyright: Copyright © 2022 IBM
+nav:
+  - Home:
+    - Goals, Statement of Approach, Learning Objectives: index.md
+    - Learning Plan including prework: learning-plan/learning-plan.md
+    - Event Schedule: agenda/agenda.md
+    - Course Breakdown: agenda/process.md
+    - Survey: agenda/survey.md
+  - Daffy Setup:
+    - Overview: daffy/daffy.md
+    - Pre-Requirements: daffy/requirements.md
+    - Core Steps:
+        - Access your Bastion Server: daffy/step1.md
+        - Install Daffy: daffy/step2.md
+        - Create -env.sh: daffy/step3.md
+  - Deployment:
+    - Overview: deploy/overview.md
+    - Daffy Env: deploy/daffy-cp4ba.md
+    - Cluster Build: deploy/cluster.md
+    - Operators: deploy/operators.md
+    - Services: deploy/services.md
+    - Monitor / Credentials: deploy/monitor.md
+  - Client Onboarding:
+    - Overview: client-onboarding/co-overview.md
+    - Instructions: client-onboarding/co-instructions.md
+    - Deploy and Integrate: client-onboarding/co-deploy-integrate.md
+    - Rebuild: client-onboarding/co-rebuild.md
+    - Customization: client-onboarding/co-customization.md
+    - Demonstration: client-onboarding/co-team-demonstration.md
+  - Troubleshooting:
+    - Overview: troubleshooting/troubleshooting.md
+  - Additional Use Cases:
+    - Accounts Payable: use-cases/accounts-pay/index.md
+    - HR Onboarding App: use-cases/hr-onboard-app/index.md
+    - Refund Request: use-cases/refund-req/index.md
+    - Onboarding Automation: use-cases/onboarding-automation/index.md
+    - Shared Services: use-cases/shared-ser/index.md
+  - Reference:
+    - Architecture: reference/architecture.md
+    - Links: reference/links.md
+  - Site Info: site-info/site-info.md
+  - Slack: site-info/slack.md
+  #- Site Info: site_info/site_info.md
+  #- Reference:
+  #  - Overview: introduction/overview/index.md
+  #  - Reference architecture: introduction/reference-architecture/index.md
+  # X: index_original.md
