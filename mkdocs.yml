@@ -71,20 +71,6 @@ nav:
     - Event Schedule: agenda/agenda.md
     - Course Breakdown: agenda/process.md
     - Survey: agenda/survey.md
-  - Daffy Setup:
-    - Overview: daffy/daffy.md
-    - Pre-Requirements: daffy/requirements.md
-    - Core Steps:
-        - Access your Bastion Server: daffy/step1.md
-        - Install Daffy: daffy/step2.md
-        - Create -env.sh: daffy/step3.md
-  - Deployment:
-    - Overview: deploy/overview.md
-    - Daffy Env: deploy/daffy-cp4ba.md
-    - Cluster Build: deploy/cluster.md
-    - Operators: deploy/operators.md
-    - Services: deploy/services.md
-    - Monitor / Credentials: deploy/monitor.md
   - Client Onboarding:
     - Overview: client-onboarding/co-overview.md
     - Instructions: client-onboarding/co-instructions.md
@@ -104,7 +90,23 @@ nav:
     - Architecture: reference/architecture.md
     - Links: reference/links.md
   - Site Info: site-info/site-info.md
-  - Slack: site-info/slack.md
+  - Slack: site-info/slack_techlcd.md
+  - Deprecated: 
+    - Daffy Setup:
+      - Overview: daffy/daffy.md
+      - Pre-Requirements: daffy/requirements.md
+      - Core Steps:
+          - Access your Bastion Server: daffy/step1.md
+          - Install Daffy: daffy/step2.md
+          - Create -env.sh: daffy/step3.md
+    - Deployment:
+      - Overview: deploy/overview.md
+      - Daffy Env: deploy/daffy-cp4ba.md
+      - Cluster Build: deploy/cluster.md
+      - Operators: deploy/operators.md
+      - Services: deploy/services.md
+      - Monitor / Credentials: deploy/monitor.md
+    
   #- Site Info: site_info/site_info.md
   #- Reference:
   #  - Overview: introduction/overview/index.md
