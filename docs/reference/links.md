@@ -21,21 +21,6 @@
     ### [Cloud Pak for Business Automation - Badge Info (seismic)](https://ibm.biz/CP4BA-Badge){target="_blank"}
 
 <!--=========================================================================================================================================-->
-## Cloud Pak for Business Automation - 22.0.1
-??? note summary "Expand to view"
-    ### [CP4BA 22.0.3 - Overview](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/22.0.1?topic=automation-overview){target="_blank"}
-    ### [CP4BA 22.0.3 - Capabilities for starter deployments](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/22.0.1?topic=deployment-capabilities-starter-deployments){target="_blank"}
-    ### [CP4BA 22.0.3  Capabilities for production deployments](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/22.0.1?topic=planning-production-deployment){target="_blank"}
-    ### [CP4BA 22.0.3 - Troubleshooting](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/22.0.1?topic=automation-troubleshooting){target="_blank"}  
-    
-    ## Cloud Pak for Business Automation - 21.0.3
-    ??? note summary "Expand to view"
-        ### [CP4BA 21.0.3 - Overview](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.3?topic=automation-overview){target="_blank"}
-        ### [CP4BA 21.0.3 - Capabilities for starter deployments](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.3?topic=deployment-capabilities-starter-deployments){target="_blank"}
-        ### [CP4BA 21.0.3  Capabilities for production deployments](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.3?topic=planning-production-deployment){target="_blank"}
-        ### [CP4BA 21.0.3 - Troubleshooting](https://www.ibm.com/docs/en/cloud-paks/cp-biz-automation/21.0.3?topic=automation-troubleshooting){target="_blank"}
-
-<!--=========================================================================================================================================-->
 ## Sales Kits
 ??? note summary "Expand to view"
     ### [Business Automation Sales Kits (Seismic)](https://ibm.biz/BASalesKits){target="_blank"}

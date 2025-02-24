@@ -66,11 +66,14 @@ markdown_extensions:
 copyright: Copyright © 2022 IBM
 nav:
   - Home:
-    - Goals, Statement of Approach, Learning Objectives: index.md
-    - Learning Plan including prework: learning-plan/learning-plan.md
-    - Event Schedule: agenda/agenda.md
-    - Course Breakdown: agenda/process.md
-    - Survey: agenda/survey.md
+    - Introduction: index.md
+  - Reference:
+    - Links: reference/links.md
+    - Architecture: reference/architecture.md
+  - Environments:
+    - Businesss Automation: environments/environments.md
+  - Deployment:
+    - Deployment Info: deployment/deployment.md
   - Client Onboarding:
     - Overview: client-onboarding/co-overview.md
     - Instructions: client-onboarding/co-instructions.md
@@ -86,12 +89,15 @@ nav:
     - Refund Request: use-cases/refund-req/index.md
     - Onboarding Automation: use-cases/onboarding-automation/index.md
     - Shared Services: use-cases/shared-ser/index.md
-  - Reference:
-    - Architecture: reference/architecture.md
-    - Links: reference/links.md
-  - Site Info: site-info/site-info.md
-  - Slack: site-info/slack_techlcd.md
+  - Slack: site-info/slack-techlcd.md
   - Deprecated: 
+    - OLD-HOME:
+      - Goals, Statement of Approach, Learning Objectives: index-old.md
+      - Learning Plan including prework: learning-plan/learning-plan.md
+      - Event Schedule: agenda/agenda.md
+      - Course Breakdown: agenda/process.md
+      - Survey: agenda/survey.md
+    - Site Info: site-info/site-info.md
     - Daffy Setup:
       - Overview: daffy/daffy.md
       - Pre-Requirements: daffy/requirements.md
