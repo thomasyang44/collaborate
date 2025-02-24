@@ -1,10 +1,10 @@
-site_name: SKO Tech Academy - Business Automation
-#site_url: https://thomasyang44.github.io/sko-tech-academy
-site_author: Gerry Baird, Thomas Yang
+site_name: Technology Learning Content Development - Business Automation - AI Assistants - Collaboration
+#site_url: https://thomasyang44.github.io/collaborate
+site_author: Thomas Yang, Gerry Baird
 
 # Repository
-repo_name: sko-tech-academy
-repo_url: https://github.com/thomasyang44/sko-tech-academy
+repo_name: collaborate
+repo_url: https://github.com/thomasyang44/collaborate
 docs_dir: docs
 site_dir: public
 edit_uri: edit/master/docs
