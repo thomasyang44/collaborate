@@ -72,7 +72,7 @@ nav:
     - Architecture: reference/architecture.md
   - OCP:
     - OCP Commands 1:  ocp/ocp-commands-00.md
-    - OCP Commands 1:  ocp/ocp-commands-10.md
+    - OCP Commands 2:  ocp/ocp-commands-10.md
   - Environments:
     - Businesss Automation: environments/environments.md
   - Deployment:
