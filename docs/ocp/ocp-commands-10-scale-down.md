@@ -1,4 +1,4 @@
-# Reference for OCP and CP4BA
+# Thomas Reference for OCP and CP4BA
 
 
 ## OC Login
@@ -85,8 +85,9 @@ deployment.apps/icp4adeploy-workspace-aae-ae-deployment
 ```bash
 oc get sts -o name | grep icp4adeploy
 
-statefulset.apps/icp4adeploy-bastudio-deployment
-statefulset.apps/icp4adeploy-rabbitmq-ha
+## oc get sts - icp4adeploy pods (Security Token Service)
+```bash
+oc get sts -o name | grep icp4adeploy
 ````
 
 
